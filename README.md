@@ -1,4 +1,4 @@
-# android-test-2.0
+# Food Menu Challenge
 
 ## Exercise I - Menu Code Kata
 
